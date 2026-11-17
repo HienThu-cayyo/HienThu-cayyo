@@ -33,7 +33,15 @@
 
 <p>An Artificial Intelligence student who loves technology and figuring out how things work.</p>
 
-<p><strong>Curious · Hard-working · Ambitious</strong></p>
+
+<p>
+  <img
+    src="https://img.shields.io/static/v1?label=&amp;message=Curious%20%C2%B7%20Hard-working%20%C2%B7%20Ambitious&amp;color=F7E4A6&amp;style=for-the-badge"
+    height="38"
+    alt="Curious · Hard-working · Ambitious"
+  />
+</p>
+
 
 </td>
 <td width="52%" valign="middle">
@@ -100,19 +108,7 @@ status  : Learning · Improving</code></pre>
 
 ---
 
-### `02 / activity board`
-
-<div align="center">
-
-<img src="https://ghchart.xqsit94.in/light:d6b46c/HienThu-cayyo" alt="Hien's GitHub contribution activity" width="95%" />
-
-<sub><a href="https://github.com/HienThu-cayyo">View activity on GitHub</a></sub>
-
-</div>
-
----
-
-### `03 / after hours`
+### `02 / after hours`
 
 <div align="center">
 
@@ -132,7 +128,7 @@ status  : Learning · Improving</code></pre>
 
 ---
 
-### `04 / contact`
+### `03 / contact`
 
 <div align="center">
 
