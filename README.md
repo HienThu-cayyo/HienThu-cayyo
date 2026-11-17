@@ -23,38 +23,23 @@
 
 ---
 
-### `👩🏻‍🍳 whoami `
+<h3>👩🏻‍🍳 whoami</h3>
 
 <table>
 <tr>
-<td width="48%" valign="middle">
-
-<strong>Hey, I'm Hien! >⩊< </strong>
-
+<td width="60%" valign="middle">
+<h3>Hey, I'm Hien! &gt;ᴗ&lt;</h3>
 <p>An Artificial Intelligence student who loves technology and figuring out how things work.</p>
-
-
-<p>
-  <img
-    src="https://img.shields.io/static/v1?label=&amp;message=Curious%20%C2%B7%20Hard-working%20%C2%B7%20Ambitious&amp;color=F7E4A6&amp;style=for-the-badge"
-    height="38"
-    alt="Curious · Hard-working · Ambitious"
-  />
-</p>
-
-
+<p><img src="https://img.shields.io/static/v1?label=&message=Curious%20%C2%B7%20Hard-working%20%C2%B7%20Ambitious&color=F7E4A6&style=flat-square" height="32" alt="Curious · Hard-working · Ambitious" /></p>
+<pre><code>$ whoami
+name   : Hien
+role   : AI Student
+focus  : AI · Technology
+status : Learning · Improving</code></pre>
 </td>
-<td width="52%" valign="middle">
-<pre><code>$ whoami 𑣲☕︎
-name    : Hien
-role    : AI Student
-focus   : AI · Technology
-status  : Learning · Improving</code></pre>
-</td>
-</tr>
+<td width="40%" align="center" valign="middle">
+<img src="./moka-typing.gif" width="230" alt="Moka" /></tr>
 </table>
-
----
 
 ### `01 / the tech menu`
 
@@ -137,8 +122,6 @@ status  : Learning · Improving</code></pre>
 <a href="https://github.com/HienThu-cayyo">
   <img src="https://img.shields.io/badge/GitHub-F7E4A6?style=for-the-badge&amp;logo=github&amp;logoColor=6B5337" alt="GitHub profile" />
 </a>
-
-
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tranthuhien2580@gmail.com" target="_blank">
   <img
     src="https://img.shields.io/badge/Email-F7E4A6?style=for-the-badge&logo=gmail&logoColor=6B5337"
@@ -147,8 +130,6 @@ status  : Learning · Improving</code></pre>
 </a>
 <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-F7E4A6?style=for-the-badge&logo=linkedin&logoColor=6B5337" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/_cayyo_stww/"><img src="https://img.shields.io/badge/Instagram-F7E4A6?style=for-the-badge&logo=instagram&logoColor=6B5337" alt="Insta" /></a>
-
-
 </div>
 
 ---
