@@ -138,12 +138,14 @@ status  : Learning · Improving</code></pre>
   <img src="https://img.shields.io/badge/GitHub-F7E4A6?style=for-the-badge&amp;logo=github&amp;logoColor=6B5337" alt="GitHub profile" />
 </a>
 
-<a href="mailto:tranthuhien2580@gmail.com">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hien@example.com" target="_blank">
   <img
     src="https://img.shields.io/badge/Email-F7E4A6?style=for-the-badge&logo=gmail&logoColor=6B5337"
     alt="Email"
   />
-</a><a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-F7E4A6?style=for-the-badge&logo=linkedin&logoColor=6B5337" alt="LinkedIn" /></a>
+</a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-F7E4A6?style=for-the-badge&logo=linkedin&logoColor=6B5337" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/_cayyo_stww/"><img src="https://img.shields.io/badge/Instagram-F7E4A6?style=for-the-badge&logo=instagram&logoColor=6B5337" alt="Insta" /></a>
 
 
