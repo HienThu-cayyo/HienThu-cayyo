@@ -44,7 +44,7 @@ focus  : AI · Technology
 status : Learning </code></pre>
 </td>
 <td width="35%" align="center" valign="middle">
-<img src="./moka-typing.gif" width="175" alt="Moka" /></tr>
+<img src="./moka-typing.gif" width="200" alt="Moka" /></tr>
 </table>
 
 ### `01 / the tech menu`
