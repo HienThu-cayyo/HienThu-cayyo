@@ -21,24 +21,30 @@
 
 </div>
 
----
 
 <h3>👩🏻‍🍳 whoami</h3>
 
 <table>
 <tr>
-<td width="60%" valign="middle">
-<h3>Hey, I'm Hien! &gt;ᴗ&lt;</h3>
+<td width="65%" valign="middle">
+<h3> Hey, I'm Hien! >⩊<</h3>
 <p>An Artificial Intelligence student who loves technology and figuring out how things work.</p>
-<p><img src="https://img.shields.io/static/v1?label=&message=Curious%20%C2%B7%20Hard-working%20%C2%B7%20Ambitious&color=F7E4A6&style=flat-square" height="32" alt="Curious · Hard-working · Ambitious" /></p>
+<p>
+  <img
+    src="https://img.shields.io/static/v1?label=&amp;message=Curious%20%C2%B7%20Hard-working%20%C2%B7%20Ambitious&amp;color=F7E4A6&amp;style=for-the-badge"
+    height="32"
+    alt="Curious · Hard-working · Ambitious"
+  />
+</p>
+
 <pre><code>$ whoami
 name   : Hien
 role   : AI Student
 focus  : AI · Technology
-status : Learning · Improving</code></pre>
+status : Learning </code></pre>
 </td>
-<td width="40%" align="center" valign="middle">
-<img src="./moka-typing.gif" width="230" alt="Moka" /></tr>
+<td width="35%" align="center" valign="middle">
+<img src="./moka-typing.gif" width="175" alt="Moka" /></tr>
 </table>
 
 ### `01 / the tech menu`
